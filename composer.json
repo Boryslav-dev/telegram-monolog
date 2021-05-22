@@ -5,9 +5,7 @@
     "type": "composer-plugin",
     "require": {
         "monolog/monolog": "^2.2",
-        "php": ">=7.0 || >=8.0",
-        "ext-curl": "*",
-        "ext-json": "*"
+        "php": ">=7.0"
     },
     "authors": [
         {
