@@ -3,12 +3,14 @@
     "description": "This is telegram-monolog logger",
     "type": "composer-plugin",
     "require": {
-        "monolog/monolog": "^2.2"
+        "monolog/monolog": "^2.2",
+        "php": ">=5.3.0"
     },
     "authors": [
         {
             "name": "Boryslav",
             "email": "kuchkovborislav000@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
