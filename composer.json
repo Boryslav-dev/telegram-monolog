@@ -1,0 +1,14 @@
+{
+    "name": "kuchkov/telegram-monolog",
+    "description": "This is telegram-monolog logger",
+    "type": "composer-plugin",
+    "require": {
+        "monolog/monolog": "^2.2"
+    },
+    "authors": [
+        {
+            "name": "Boryslav",
+            "email": "kuchkovborislav000@gmail.com"
+        }
+    ]
+}
