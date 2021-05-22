@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Telegram;
+namespace TelegramMonolog;
 
 use Exception;
 use Monolog\Formatter\LineFormatter;
