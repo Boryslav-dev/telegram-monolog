@@ -25,7 +25,7 @@ class TelegramService extends AbstractProcessingHandler
         $timeOut = 100,
         $curlOptions = []
     ) {
-        $this->token   = $token;
+        $this->token = $token;
         $this->channel = $channel;
         $this->dateFormat = $dateFormat;
         $this->timeOut = $timeOut;

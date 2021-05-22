@@ -3,6 +3,7 @@
     "license": "MIT",
     "description": "This is telegram-monolog logger",
     "type": "composer-plugin",
+    "minimum-stability": "dev",
     "require": {
         "monolog/monolog": "^2.2",
         "php": ">=7.0"
