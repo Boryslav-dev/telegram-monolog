@@ -7,7 +7,7 @@ use Monolog\Formatter\LineFormatter;
 use Monolog\Handler\AbstractProcessingHandler;
 use Monolog\Logger;
 
-class TelegramService extends AbstractProcessingHandler
+class TelegramMonolog extends AbstractProcessingHandler
 {
     protected $timeOut;
     protected $token;
