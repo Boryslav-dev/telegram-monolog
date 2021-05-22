@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "kuchkov\\telegram-monolog\\": "src/"
+            "kuchkov\\telegram-monolog\\": "src"
         }
     }
 }
