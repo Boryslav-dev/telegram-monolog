@@ -1,10 +1,13 @@
 {
     "name": "kuchkov/telegram-monolog",
+    "license": "MIT",
     "description": "This is telegram-monolog logger",
     "type": "composer-plugin",
     "require": {
         "monolog/monolog": "^2.2",
-        "php": ">=5.3.0"
+        "php": ">=7.0 || >=8.0",
+        "ext-curl": "*",
+        "ext-json": "*"
     },
     "authors": [
         {
