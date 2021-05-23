@@ -1,6 +1,6 @@
 <?php
 
-namespace kuchkov\TelegramMonolog;
+namespace TelegramMonolog;
 
 use Monolog\Handler\AbstractProcessingHandler;
 use Monolog\Logger;
