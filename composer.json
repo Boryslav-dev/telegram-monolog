@@ -4,7 +4,8 @@
     "description": "This is telegram-monolog logger",
     "require": {
         "monolog/monolog": "^2.2",
-        "php": ">=7.0"
+        "php": ">=7.0",
+        "ext-curl": "*"
     },
     "authors": [
         {
