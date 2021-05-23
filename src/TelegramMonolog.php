@@ -1,6 +1,6 @@
 <?php
 
-namespace TelegramMonolog;
+namespace kuchkov\TelegramMonolog;
 
 use Exception;
 use Monolog\Formatter\LineFormatter;
