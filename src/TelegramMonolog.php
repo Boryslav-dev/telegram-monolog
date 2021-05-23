@@ -2,8 +2,6 @@
 
 namespace kuchkov\TelegramMonolog;
 
-use Exception;
-use Monolog\Formatter\LineFormatter;
 use Monolog\Handler\AbstractProcessingHandler;
 use Monolog\Logger;
 
