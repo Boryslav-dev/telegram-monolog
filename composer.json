@@ -12,9 +12,10 @@
             "email": "kuchkovborislav000@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "kuchkov\\telegramMonolog\\": "src"
+            "kuchkov\\telegramMonolog\\": "src/"
         }
     }
 }
