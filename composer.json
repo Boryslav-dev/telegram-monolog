@@ -1,5 +1,5 @@
 {
-    "name": "kuchkov/telegram-monolog",
+    "name": "kuchkov/telegrammonolog",
     "license": "MIT",
     "description": "This is telegram-monolog logger",
     "minimum-stability": "dev",
